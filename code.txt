@@ -1,3 +1,5 @@
 line 01
 there are some features, ok
 there are some features, ok
+feature2
+feature3
